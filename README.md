@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 
 
-<center📫 How to reach me:>
+<center>📫 How to reach me:

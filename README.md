@@ -1,25 +1,25 @@
 ### Hi there, I'm Billy 👋
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 body, html {
-    height: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-/* The hero image */
 .hero-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
-
-  /* Set a specific height */
   height: 50%;
-
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-/* Place text in the middle of the image */
 .hero-text {
   text-align: center;
   position: absolute;
@@ -28,13 +28,38 @@ body, html {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+</head>
+<body>
+
 <div class="hero-image">
   <div class="hero-text">
-    <h1>I am John Doe</h1>
+    <h1 style="font-size:50px">I am John Doe</h1>
     <p>And I'm a Photographer</p>
     <button>Hire me</button>
   </div>
 </div>
+
+<p>Page Content..</p>
+
+
+
 
 <!--
 **Billy001/Billy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,3 +92,5 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me:
+</body>
+</html>

@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <hr>
 
 <img src="img/html-b.png" alt="html">
-<img src="img/css.png" alt="html">
-<img src="img/vuejs.png" alt="html">
+<img src="img/css.png" alt="css">
+<img src="img/vuejs.png" alt="vuejs">

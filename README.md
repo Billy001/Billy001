@@ -2,24 +2,11 @@
 
 <!DOCTYPE html>
 <html>
+  
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
+  
 </head>
-<body>
-
-<div class="hero-image">
-  <div class="hero-text">
-    <h1 style="font-size:50px">I am John Doe</h1>
-    
-    <button>Hire me</button>
-  </div>
-</div>
-
-
-
-
 
 
 <!--

@@ -23,4 +23,11 @@ Here are some ideas to get you started:
 <img src="img/vuejs.png" alt="vuejs">
 
 
+
+
+
+
+
+
+
 📫 How to reach me:

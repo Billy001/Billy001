@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="img/html-b.png" alt="html">
 <img src="img/css.png" alt="css">
 <img src="img/vuejs.png" alt="vuejs">
-
+<hr>
 
 
 

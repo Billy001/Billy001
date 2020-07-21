@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1>Core Skills</h>
 <hr>
 
-<img src="img/html-b.png" alt="html">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="max-width:100%;">
 <img src="img/css.png" alt="css">
 <img src="img/vuejs.png" alt="vuejs">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">

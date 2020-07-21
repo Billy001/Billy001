@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <h1>Core Skills</h>
 
+<img src="flowers.png" alt="flowers">

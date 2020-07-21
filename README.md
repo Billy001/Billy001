@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h1>Core Skills</h>
 <br>
-
+<br>
 <img src="img/html-b.png" alt="html">

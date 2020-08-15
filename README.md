@@ -1,5 +1,3 @@
-### Hi there, I'm Billy 👋
-
 <!DOCTYPE html>
 <html>
   

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
   
 </head>
-img src="img/git-readme.jpg" alt="css">
+<img src="img/git-readme.jpg" alt="css">
 
 <!--
 **Billy001/Billy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

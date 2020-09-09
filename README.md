@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <hr>
 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="max-width:100%;">
-<img src="img/css.png" alt="css">
-
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="max-width:100%;">

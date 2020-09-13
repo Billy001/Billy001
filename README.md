@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<h1>Core Skills</h>
+##Core Skills
 <hr>
 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="max-width:100%;">

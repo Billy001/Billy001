@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #   
 
 
-📫 You can find me on: [![Instagram][2.2]][2], or on [![LinkedIn][1.2]][1].
+📫 You can find me on: [![LinkedIn][1.2]][1] , or on [![Instagram][2.2]][2].
 
 <!-- Icons -->
 

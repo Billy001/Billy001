@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 #   
 
 
-
-
-📫 How to reach me: <
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+📫 You can find me on: [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

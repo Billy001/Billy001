@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-  
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-  
-</head>
-<img src="img/git-reamde.png" alt="css">
 
 <!--
 **Billy001/Billy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +18,10 @@ Here are some ideas to get you started:
 
 # Core Skills
 <hr>
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">

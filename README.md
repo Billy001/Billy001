@@ -27,14 +27,16 @@ Here are some ideas to get you started:
 #   
 
 
-📫 You can find me on: [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
+📫 You can find me on: [![Instagram][2.2]][2], or on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/Billy001/Billy001/blob/master/img/instagram-sketched.png
-[2.2]: https://github.com/Billy001/Billy001/blob/master/img/linkedin.png 
+[1.2]: https://github.com/Billy001/Billy001/blob/master/img/linkedin.png 
+
+[2.2]: https://github.com/Billy001/Billy001/blob/master/img/instagram-sketched.png 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://instagram.com/aspiringdevelopersa
-[2]:  https://www.linkedin.com/in/bwvanheerde-2019
+[1]:  https://www.linkedin.com/in/bwvanheerde-2019
+[2]: https://instagram.com/aspiringdevelopersa
+

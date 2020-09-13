@@ -17,26 +17,16 @@ Here are some ideas to get you started:
 
 
 # Core Skills
-<hr>
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="max-width:100%;">
-<hr>
-
-
-
+  
+  * HMTL5
+  * CSS
+  * GIT/Github
+  * Python/Django
+  * Javascript
+  * REACT
 
 
 
 
 
 📫 How to reach me: <
-</body>
-</html>

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me:
   
-  ### Hi, My name is Billy. I am an aspiring software developer. I currently work in the Information Technology sector as a Server Administrator. My dream is to one day work as a Full Stack Developr. 
+  ### Hi, My name is Billy. I am an aspiring software developer. I currently work in the Information Technology sector as a Server Administrator. My dream is to one day work as a Full Stack Developer. 
   
 
 # Core Skills
